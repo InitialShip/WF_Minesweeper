@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScoreData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Minesweeper">
+	<Easy>
+		<LevelName i:nil="true" />
+		<Records>
+			<Record>
+				<MineRemain>10</MineRemain>
+				<Name>Play test 1</Name>
+				<Time>29</Time>
+			</Record>
+			<Record>
+				<MineRemain>10</MineRemain>
+				<Name>Play test 3</Name>
+				<Time>174</Time>
+			</Record>
+			<Record>
+				<MineRemain>1</MineRemain>
+				<Name>Play test 4</Name>
+				<Time>96</Time>
+			</Record>
+		</Records>
+	</Easy>
+	<Hard>
+		<LevelName i:nil="true" />
+		<Records />
+	</Hard>
+	<Medium>
+		<LevelName i:nil="true" />
+		<Records>
+			<Record>
+				<MineRemain>26</MineRemain>
+				<Name>Play test 2</Name>
+				<Time>242</Time>
+			</Record>
+		</Records>
+	</Medium>
+</ScoreData>
